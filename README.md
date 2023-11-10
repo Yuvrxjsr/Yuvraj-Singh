@@ -24,8 +24,6 @@ My programming experience includes JavaScript, CSS, HTML, React, C#, Java. Would
 
 ### My stats
 
-![yuvrxjsr's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuvrxjsr&theme=dracula)
-
 <a href="https://github.com/yuvrxjsr">
   <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=yuvrxjsr&theme=vue&show_icons=true" alt="My GitHub stats" />
 </a>
